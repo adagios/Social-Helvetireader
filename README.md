@@ -3,4 +3,4 @@ It doesn't hide the _People you follow_ link.
 
 You can use the latest css directly from [here](https://github.com/adagios/Social-Helvetireader/raw/master/helvetireader.2.css).
 
-Many thanks to [http://www.hicksdesign.com](Hicksdesign) for the awesome theme.
+Many thanks to [Hicksdesign](http://www.hicksdesign.com) for the awesome theme.
